@@ -1,22 +1,104 @@
-📂 Python Practice Repository (2024 – 2025)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120"/>
+</p>
 
-This repository contains Python programming practice exercises and small projects that I have worked on from 2024 to 2025. It includes problems on various concepts such as loops, functions, data structures, algorithms, file handling, and more. The purpose of this repository is to improve problem-solving skills and Python coding proficiency.
+<h1 align="center">🐍 Python Practice Repository (2026)</h1>
 
-Each problem is organized by year and includes comments explaining the logic where necessary. This collection is helpful for beginners and intermediate learners who want to strengthen their Python programming foundation.
+<p align="center">
+  🚀 From Basics to Advanced Python | OOPS | Libraries | DSA | Projects
+</p>
 
-✅ Topics covered:
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python"/>
+  <img src="https://img.shields.io/badge/Practice-2026-success"/>
+  <img src="https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github"/>
+</p>
 
-* Basic syntax and operations
+---
 
-* Conditional statements and loops
+## 📌 About This Repository
 
-* Functions and recursion
+This repository documents my **Python learning journey (2026)**.  
+It contains structured practice code starting from **Python basics** to **advanced concepts**, including **OOPS, libraries, DSA, and real-world projects**.
 
-* Lists, dictionaries, sets, and tuples
+This repo is built for:
+- 📚 Consistent learning
+- 🧠 Strong fundamentals
+- 💼 Interview & project preparation
 
-* File handling
+---
 
-* Algorithms and problem-solving techniques
+🧱 Topics Covered
 
-Feel free to explore, learn, and contribute!
+🟢 Python Basics
+Variables & Data Types
+Conditions & Loops
+Functions
+Lists, Tuples, Sets, Dictionary
+Strings
+File Handling
 
+📦 Libraries
+math
+random
+datetime
+os / sys
+
+requests
+numpy (upcoming)
+pandas (upcoming)
+
+🧩 OOPS Concepts
+Class & Object
+Constructor
+Inheritance
+Polymorphism
+Encapsulation
+Abstraction
+Mini OOPS Projects
+
+🧠 DSA
+Arrays
+Searching & Sorting
+Recursion
+Stack & Queue
+Logic Building Problems
+
+🚀 Projects
+Calculator
+Number Guessing Game
+To-Do App
+Password Generator
+File Organizer
+More coming soon…
+
+⚙️ Advanced Python
+Lambda, map, filter
+Decorators
+Generators
+Exception Handling
+Multithreading
+
+🛠 Tools & Technologies Used
+🐍 Python 3
+🧰 VS Code
+🌐 Git & GitHub
+🖥 Command Line
+📦 Python Libraries
+
+🎯 Learning Goals (2026)
+✅ Strong Python fundamentals
+✅ Clean & readable code
+✅ Real-world project building
+✅ GitHub portfolio improvement
+✅ Interview readiness
+
+📅 Future Plans
+Add more projects
+Integrate APIs
+Improve documentation
+Convert projects into applications
+
+🤝 Contributions
+This is a personal learning repository,
+but suggestions & improvements are always welcome ⭐
