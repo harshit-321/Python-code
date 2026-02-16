@@ -28,9 +28,10 @@ This repo is built for:
 
 ---
 
-🧱 Topics Covered
+**🧱 Topics Covered**
 
 🟢 Python Basics
+
 Variables & Data Types
 Conditions & Loops
 Functions
@@ -39,6 +40,7 @@ Strings
 File Handling
 
 📦 Libraries
+
 math
 random
 datetime
@@ -49,6 +51,7 @@ numpy (upcoming)
 pandas (upcoming)
 
 🧩 OOPS Concepts
+
 Class & Object
 Constructor
 Inheritance
@@ -58,6 +61,7 @@ Abstraction
 Mini OOPS Projects
 
 🧠 DSA
+
 Arrays
 Searching & Sorting
 Recursion
@@ -65,6 +69,7 @@ Stack & Queue
 Logic Building Problems
 
 🚀 Projects
+
 Calculator
 Number Guessing Game
 To-Do App
@@ -73,6 +78,7 @@ File Organizer
 More coming soon…
 
 ⚙️ Advanced Python
+
 Lambda, map, filter
 Decorators
 Generators
@@ -80,6 +86,7 @@ Exception Handling
 Multithreading
 
 🛠 Tools & Technologies Used
+
 🐍 Python 3
 🧰 VS Code
 🌐 Git & GitHub
@@ -87,6 +94,7 @@ Multithreading
 📦 Python Libraries
 
 🎯 Learning Goals (2026)
+
 ✅ Strong Python fundamentals
 ✅ Clean & readable code
 ✅ Real-world project building
@@ -94,11 +102,13 @@ Multithreading
 ✅ Interview readiness
 
 📅 Future Plans
+
 Add more projects
 Integrate APIs
 Improve documentation
 Convert projects into applications
 
 🤝 Contributions
+
 This is a personal learning repository,
 but suggestions & improvements are always welcome ⭐
